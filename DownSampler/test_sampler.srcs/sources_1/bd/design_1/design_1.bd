@@ -1,0 +1,62 @@
+{
+  "design": {
+    "design_info": {
+      "boundary_crc": "0xBB49FA3234AD1C0F",
+      "device": "xcvu065-ffvc1517-1-i",
+      "gen_directory": "../../../../test_sampler.gen/sources_1/bd/design_1",
+      "name": "design_1",
+      "rev_ctrl_bd_flag": "RevCtrlBdOff",
+      "synth_flow_mode": "Hierarchical",
+      "tool_version": "2024.1",
+      "validated": "true"
+    },
+    "design_tree": {
+      "downsampler_core1_0": ""
+    },
+    "ports": {
+      "clk_0": {
+        "type": "clk",
+        "direction": "I",
+        "parameters": {
+          "CLK_DOMAIN": {
+            "value": "design_1_clk_0",
+            "value_src": "default"
+          },
+          "FREQ_HZ": {
+            "value": "100000000",
+            "value_src": "default"
+          },
+          "FREQ_TOLERANCE_HZ": {
+            "value": "0",
+            "value_src": "default"
+          },
+          "INSERT_VIP": {
+            "value": "0",
+            "value_src": "default"
+          },
+          "PHASE": {
+            "value": "0.0",
+            "value_src": "default"
+          }
+        }
+      }
+    },
+    "components": {
+      "downsampler_core1_0": {
+        "vlnv": "user.org:user:downsampler_core1:1.0",
+        "ip_revision": "3",
+        "xci_name": "design_1_downsampler_core1_0_0",
+        "xci_path": "ip/design_1_downsampler_core1_0_0/design_1_downsampler_core1_0_0.xci",
+        "inst_hier_path": "downsampler_core1_0"
+      }
+    },
+    "nets": {
+      "clk_0_1": {
+        "ports": [
+          "clk_0",
+          "downsampler_core1_0/clk"
+        ]
+      }
+    }
+  }
+}

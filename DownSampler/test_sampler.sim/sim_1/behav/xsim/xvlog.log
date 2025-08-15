@@ -1,0 +1,6 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/mimos1/projects/practice_files/test_sampler/test_sampler.srcs/sources_1/new/test_sampler.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module downsampler_core1
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/mimos1/projects/practice_files/test_sampler/test_sampler.srcs/sim_1/new/test_sampler_tb.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module downsampler_TB
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/mimos1/projects/practice_files/test_sampler/test_sampler.sim/sim_1/behav/xsim/glbl.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module glbl

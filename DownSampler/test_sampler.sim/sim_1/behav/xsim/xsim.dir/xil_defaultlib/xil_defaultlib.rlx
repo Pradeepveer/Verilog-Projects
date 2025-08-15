@@ -1,0 +1,7 @@
+0.7
+2020.2
+May 22 2024
+18:54:44
+/home/mimos1/projects/practice_files/test_sampler/test_sampler.sim/sim_1/behav/xsim/glbl.v,1708598507,verilog,,,,glbl,,,,,,,,
+/home/mimos1/projects/practice_files/test_sampler/test_sampler.srcs/sim_1/new/test_sampler_tb.v,1746429488,verilog,,,,downsampler_TB,,,,,,,,
+/home/mimos1/projects/practice_files/test_sampler/test_sampler.srcs/sources_1/new/test_sampler.v,1747993728,verilog,,/home/mimos1/projects/practice_files/test_sampler/test_sampler.srcs/sim_1/new/test_sampler_tb.v,,downsampler_core1,,,,,,,,
