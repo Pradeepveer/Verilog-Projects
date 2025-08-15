@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="downsampler_TB_behav.wdb" id="1">
+         <top_modules>
+            <top_module name="downsampler_TB" />
+            <top_module name="glbl" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <zoom_setting>
+      <ZoomStartTime time="731.250 ns"></ZoomStartTime>
+      <ZoomEndTime time="1,053.751 ns"></ZoomEndTime>
+      <Cursor1Time time="1,000.000 ns"></Cursor1Time>
+   </zoom_setting>
+   <column_width_setting>
+      <NameColumnWidth column_width="276"></NameColumnWidth>
+      <ValueColumnWidth column_width="104"></ValueColumnWidth>
+   </column_width_setting>
+   <WVObjectSize size="30" />
+   <wvobject type="logic" fp_name="/downsampler_TB/uut/clk">
+      <obj_property name="ElementShortName">clk</obj_property>
+      <obj_property name="ObjectShortName">clk</obj_property>
+   </wvobject>
+   <wvobject type="array" fp_name="/downsampler_TB/uut/s_axis_tdata">
+      <obj_property name="ElementShortName">s_axis_tdata[31:0]</obj_property>
+      <obj_property name="ObjectShortName">s_axis_tdata[31:0]</obj_property>
+   </wvobject>
+   <wvobject type="logic" fp_name="/downsampler_TB/uut/s_axis_tvalid">
+      <obj_property name="ElementShortName">s_axis_tvalid</obj_property>
+      <obj_property name="ObjectShortName">s_axis_tvalid</obj_property>
+   </wvobject>
+   <wvobject type="logic" fp_name="/downsampler_TB/uut/s_axis_tready">
+      <obj_property name="ElementShortName">s_axis_tready</obj_property>
+      <obj_property name="ObjectShortName">s_axis_tready</obj_property>
+   </wvobject>
+   <wvobject type="array" fp_name="/downsampler_TB/uut/m_axis_tdata0">
+      <obj_property name="ElementShortName">m_axis_tdata0[31:0]</obj_property>
+      <obj_property name="ObjectShortName">m_axis_tdata0[31:0]</obj_property>
+   </wvobject>
+   <wvobject type="logic" fp_name="/downsampler_TB/uut/m_axis_tvalid0">
+      <obj_property name="ElementShortName">m_axis_tvalid0</obj_property>
+      <obj_property name="ObjectShortName">m_axis_tvalid0</obj_property>
+   </wvobject>
+   <wvobject type="logic" fp_name="/downsampler_TB/uut/m_axis_tready0">
+      <obj_property name="ElementShortName">m_axis_tready0</obj_property>
+      <obj_property name="ObjectShortName">m_axis_tready0</obj_property>
+   </wvobject>
+   <wvobject type="array" fp_name="/downsampler_TB/uut/m_axis_tdata1">
+      <obj_property name="ElementShortName">m_axis_tdata1[31:0]</obj_property>
+      <obj_property name="ObjectShortName">m_axis_tdata1[31:0]</obj_property>
+   </wvobject>
+   <wvobject type="logic" fp_name="/downsampler_TB/uut/m_axis_tvalid1">
+      <obj_property name="ElementShortName">m_axis_tvalid1</obj_property>
+      <obj_property name="ObjectShortName">m_axis_tvalid1</obj_property>
+   </wvobject>
+   <wvobject type="logic" fp_name="/downsampler_TB/uut/m_axis_tready1">
+      <obj_property name="ElementShortName">m_axis_tready1</obj_property>
+      <obj_property name="ObjectShortName">m_axis_tready1</obj_property>
+   </wvobject>
+   <wvobject type="array" fp_name="/downsampler_TB/uut/m_axis_tdata2">
+      <obj_property name="ElementShortName">m_axis_tdata2[31:0]</obj_property>
+      <obj_property name="ObjectShortName">m_axis_tdata2[31:0]</obj_property>
+   </wvobject>
+   <wvobject type="logic" fp_name="/downsampler_TB/uut/m_axis_tvalid2">
+      <obj_property name="ElementShortName">m_axis_tvalid2</obj_property>
+      <obj_property name="ObjectShortName">m_axis_tvalid2</obj_property>
+   </wvobject>
+   <wvobject type="logic" fp_name="/downsampler_TB/uut/m_axis_tready2">
+      <obj_property name="ElementShortName">m_axis_tready2</obj_property>
+      <obj_property name="ObjectShortName">m_axis_tready2</obj_property>
+   </wvobject>
+   <wvobject type="array" fp_name="/downsampler_TB/uut/m_axis_tdata3">
+      <obj_property name="ElementShortName">m_axis_tdata3[31:0]</obj_property>
+      <obj_property name="ObjectShortName">m_axis_tdata3[31:0]</obj_property>
+   </wvobject>
+   <wvobject type="logic" fp_name="/downsampler_TB/uut/m_axis_tvalid3">
+      <obj_property name="ElementShortName">m_axis_tvalid3</obj_property>
+      <obj_property name="ObjectShortName">m_axis_tvalid3</obj_property>
+   </wvobject>
+   <wvobject type="logic" fp_name="/downsampler_TB/uut/m_axis_tready3">
+      <obj_property name="ElementShortName">m_axis_tready3</obj_property>
+      <obj_property name="ObjectShortName">m_axis_tready3</obj_property>
+   </wvobject>
+   <wvobject type="array" fp_name="/downsampler_TB/uut/m_axis_tdata4">
+      <obj_property name="ElementShortName">m_axis_tdata4[31:0]</obj_property>
+      <obj_property name="ObjectShortName">m_axis_tdata4[31:0]</obj_property>
+   </wvobject>
+   <wvobject type="logic" fp_name="/downsampler_TB/uut/m_axis_tvalid4">
+      <obj_property name="ElementShortName">m_axis_tvalid4</obj_property>
+      <obj_property name="ObjectShortName">m_axis_tvalid4</obj_property>
+   </wvobject>
+   <wvobject type="logic" fp_name="/downsampler_TB/uut/m_axis_tready4">
+      <obj_property name="ElementShortName">m_axis_tready4</obj_property>
+      <obj_property name="ObjectShortName">m_axis_tready4</obj_property>
+   </wvobject>
+   <wvobject type="array" fp_name="/downsampler_TB/uut/m_axis_tdata5">
+      <obj_property name="ElementShortName">m_axis_tdata5[31:0]</obj_property>
+      <obj_property name="ObjectShortName">m_axis_tdata5[31:0]</obj_property>
+   </wvobject>
+   <wvobject type="logic" fp_name="/downsampler_TB/uut/m_axis_tvalid5">
+      <obj_property name="ElementShortName">m_axis_tvalid5</obj_property>
+      <obj_property name="ObjectShortName">m_axis_tvalid5</obj_property>
+   </wvobject>
+   <wvobject type="logic" fp_name="/downsampler_TB/uut/m_axis_tready5">
+      <obj_property name="ElementShortName">m_axis_tready5</obj_property>
+      <obj_property name="ObjectShortName">m_axis_tready5</obj_property>
+   </wvobject>
+   <wvobject type="array" fp_name="/downsampler_TB/uut/m_axis_tdata6">
+      <obj_property name="ElementShortName">m_axis_tdata6[31:0]</obj_property>
+      <obj_property name="ObjectShortName">m_axis_tdata6[31:0]</obj_property>
+   </wvobject>
+   <wvobject type="logic" fp_name="/downsampler_TB/uut/m_axis_tvalid6">
+      <obj_property name="ElementShortName">m_axis_tvalid6</obj_property>
+      <obj_property name="ObjectShortName">m_axis_tvalid6</obj_property>
+   </wvobject>
+   <wvobject type="logic" fp_name="/downsampler_TB/uut/m_axis_tready6">
+      <obj_property name="ElementShortName">m_axis_tready6</obj_property>
+      <obj_property name="ObjectShortName">m_axis_tready6</obj_property>
+   </wvobject>
+   <wvobject type="array" fp_name="/downsampler_TB/uut/m_axis_tdata7">
+      <obj_property name="ElementShortName">m_axis_tdata7[31:0]</obj_property>
+      <obj_property name="ObjectShortName">m_axis_tdata7[31:0]</obj_property>
+   </wvobject>
+   <wvobject type="logic" fp_name="/downsampler_TB/uut/m_axis_tvalid7">
+      <obj_property name="ElementShortName">m_axis_tvalid7</obj_property>
+      <obj_property name="ObjectShortName">m_axis_tvalid7</obj_property>
+   </wvobject>
+   <wvobject type="logic" fp_name="/downsampler_TB/uut/m_axis_tready7">
+      <obj_property name="ElementShortName">m_axis_tready7</obj_property>
+      <obj_property name="ObjectShortName">m_axis_tready7</obj_property>
+   </wvobject>
+   <wvobject type="array" fp_name="/downsampler_TB/uut/cycle_count">
+      <obj_property name="ElementShortName">cycle_count[2:0]</obj_property>
+      <obj_property name="ObjectShortName">cycle_count[2:0]</obj_property>
+      <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject type="array" fp_name="/downsampler_TB/count">
+      <obj_property name="ElementShortName">count[31:0]</obj_property>
+      <obj_property name="ObjectShortName">count[31:0]</obj_property>
+      <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+   </wvobject>
+</wave_config>
